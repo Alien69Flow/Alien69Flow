@@ -28,8 +28,8 @@ O simplemente deja una issue en cualquiera de mis repos para conectar.
 
 ## 👽 Sobre mí 🤖
 
-- Apasionado por la eficiencia, la innovación y la descentralización.
-- Desarrollador, explorador, innovador y provocador.
+- Apasionado por la descentralización, la eficiencia, la innovación y la sostenibillidad.
+- Constructor, desarrollador, diseñador, explorador, innovador y provocador.
 - Siempre listo para romper esquemas y desafiar límites.
 - Si buscas originalidad, aquí la encontrarás.
 
