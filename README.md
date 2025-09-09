@@ -6,7 +6,7 @@ Si has llegado hasta aquí, prepárate para explorar repositorios únicos, ideas
 
 ---
 
-## 📡 Contacto
+## 📡 Contacto 🛰️
 
 ¿Tienes ideas locas, colaboraciones, o solo quieres saludar?  
 Conecta a través de cualquiera de estos canales oficiales:
@@ -26,7 +26,7 @@ O simplemente deja una issue en cualquiera de mis repos para conectar.
 
 ---
 
-## 🤖 Sobre mí
+## 👽 Sobre mí 🤖
 
 - Apasionado por la eficiencia, la innovación y la descentralización.
 - Desarrollador, explorador, innovador y provocador.
@@ -45,7 +45,7 @@ Si te gusta lo que ves, deja una estrella ⭐ y comparte el flow.
 
 ---
 
-## 🚀 Top repositorios
+## 🚀 Top repositorios 🛸
 
 - [AlienFlowSpace](https://github.com/Alien69Flow/AlienFlowSpace)  
   Un espacio para la innovación alienígena.
