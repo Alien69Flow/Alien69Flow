@@ -29,9 +29,9 @@ O simplemente deja una issue en cualquiera de mis repos para conectar.
 ## 👽 Sobre mí 🤖
 
 - Apasionado por la descentralización, la eficiencia, la innovación y la sostenibillidad.
-- Constructor, desarrollador, diseñador, explorador, innovador y provocador.
+- Constructor, desarrollador, diseñador, emprendedor, explorador, innovador, inversor y provocador.
 - Siempre listo para romper esquemas y desafiar límites.
-- Si buscas originalidad, aquí la encontrarás.
+- Si buscas autenticidad y originalidad, aquí la encontrarás.
 
 ---
 
