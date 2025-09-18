@@ -1,8 +1,22 @@
-## Hello there 🖖🏻 I’m 👽 Alien69Flow 🛸
+## 🖖🏻 Hello there, I’m Alien69Flow 🛸
 
 ¡Bienvenido a mi espacio!  
 Aquí encontrarás proyectos que combinan creatividad, tecnología y una pizca de locura alien.  
 Si has llegado hasta aquí, prepárate para explorar repositorios únicos, ideas revolucionarias y herramientas que desafían las normas establecida.
+
+------
+
+## 👽 Sobre mí 🤖
+
+- Apasionado por la descentralización, la eficiencia, la innovación y la sostenibillidad.
+- Constructor, desarrollador, diseñador, emprendedor, explorador, innovador, inversor y provocador.
+- Siempre listo para romper esquemas y desafiar límites.
+- Si buscas autenticidad y originalidad, aquí la encontrarás.
+
+---
+
+> _"El universo es demasiado grande para pensar pequeño."_  
+> **Alien69Flow**
 
 ---
 
@@ -24,21 +38,7 @@ Conecta a través de cualquiera de estos canales oficiales:
 
 O simplemente deja una issue en cualquiera de mis repos para conectar.
 
----
-
-## 👽 Sobre mí 🤖
-
-- Apasionado por la descentralización, la eficiencia, la innovación y la sostenibillidad.
-- Constructor, desarrollador, diseñador, emprendedor, explorador, innovador, inversor y provocador.
-- Siempre listo para romper esquemas y desafiar límites.
-- Si buscas autenticidad y originalidad, aquí la encontrarás.
-
----
-
-> _"El universo es demasiado grande para pensar pequeño."_  
-> **Alien69Flow**
-
----
+------
 
 ¡Gracias por visitar mi perfil!  
 Si te gusta lo que ves, deja una estrella ⭐ y comparte el flow.
