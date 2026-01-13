@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B6b3J4ZmIxeGR5b2w2eHV4ZmJ4b3J4ZmIxeGR5b2w2eHV4ZmJ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btXkbsV26U95Ugl/giphy.gif" width="40px">
+  <img src="https://media.giphy.com/media/l3V0cSOBfJvvNsSzu/giphy.gif" width="60px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B6b3J4ZmIxeGR5b2w2eHV4ZmJ4b3J4ZmIxeGR5b2w2eHV4ZmJ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l41lRdBq3e1x7v70c/giphy.gif" width="50px">
   <h1>🖖🏻 Alien69Flow: System Architect & Visionary 🛸</h1>
 ## 🖖🏻 Hello there, I’m Alien69Flow 🛸
 
