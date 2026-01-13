@@ -9,7 +9,7 @@
 
 ¡Bienvenido a mi espacio alienígena! Aquí combino codigo abierto y libre con la creatividad, descentralización, tecnología y una buena dosis de experimentación con redes blockchain web 3, redes de inteligenccia neuronal IA web 4, computación cuantica.
 Si has llegado hasta aquí, prepárate para explorar repositorios únicos, ideas revolucionarias y herramientas que desafían las normas establecidas.
-Explora, prueba y si te atreves colabora y contacta.
+Explora, prueba y si te atreves colabora & contacta.
 
 ---
 
@@ -64,16 +64,31 @@ Conecta a través de cualquiera de estos canales oficiales:
 
 ¿Colaboraciones e Ideas locas? Abre una issue en el repo relevante o mándame un DM en Redes Sociales para conectar.
 
----
+<div align="center">
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/alienflow)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/alien69flow)
+[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/AlienFlow)
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/alienflowspace)
+[<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:alien69flow@proton.me)
+[<img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" />](https://alienflowspace.gitbook.io/DAO)
+
+</div>
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSBanner.jpg" width="100%" alt="AlienFlow Banner" />
 </p>
+---
 
 ## 🧰 Herramientas, Lenguajes & Tecnologías
-Combino lenguajes, frameworks y herramientas. Añade o cambia badges según prefieras.
+Combino frameworks, herramientas y lenguajes.
 
-Badges rápidos:
+Badges Expertise:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,py,rust,cpp,react,nextjs,tailwind,nodejs,fastapi,docker,kali,linux,git,github,vscode,npm,md" />
+</div>
+
 ![Solidity](https://img.shields.io/badge/Solidity-333333?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -133,12 +148,14 @@ Herramientas & stacks:
   Experimentos y mods para DeFi en PancakeSwap sobre la red de Binance Smart Chain con Liquidity Pools, Staking.
 
 ---
-## 📊 Alien Stats & Frequency
+## 📊 Alien Activity, Frequency, Graph, Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alien69Flow&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=tokyonight&count_private=true" alt="Aitor's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien69Flow&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/EarthTierra.png" width="100" />
