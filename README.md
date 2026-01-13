@@ -3,11 +3,13 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Alien69Flow&style=flat-square)](https://github.com/Alien69Flow)
 [![Seguir en GitHub](https://img.shields.io/github/followers/Alien69Flow?label=Seguir&style=social)](https://github.com/Alien69Flow)
 
-<img [src="./assets/alien-welcome.svg" width="260" alt="Alien welcome](https://github.com/Alien69Flow/AlienFlowSpace/blob/main/public/lovable-uploads/ALogo.png)" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="300" alt="AlienFlow Logo" />
+</p>
 
 ¡Bienvenido a mi espacio alienígena! Aquí combino codigo abierto y libre con la creatividad, descentralización, tecnología y una buena dosis de experimentación con redes blockchain web 3, redes de inteligenccia neuronal IA web 4, computación cuantica.
-Si has llegado hasta aquí, prepárate para explorar repositorios únicos, ideas revolucionarias y herramientas que desafían las normas establecida.
-Explora, prueba y —si te atreves— colabora.
+Si has llegado hasta aquí, prepárate para explorar repositorios únicos, ideas revolucionarias y herramientas que desafían las normas establecidas.
+Explora, prueba y si te atreves colabora y contacta.
 
 ---
 
@@ -30,8 +32,10 @@ I mainly publish content in Spanish. If you want an English version or help tran
 
 ## 👽 Sobre mí — Quick bio
 - Apasionado por la descentralización, la eficiencia, la innovación y la sostenibilidad.
-- Constructor: desarrollo AI, DApps, herramientas y prototipos experimentales.
-- Explorando: Web3, Web4, Web5, nodos, UI / UX y la descentralizacion de una economía tokenizada.
+- 🌌 **Visión:** Inspirado por Tesla, unifico el campo magnético y la gravedad a través de flujos de Neutrinos.
+- 🏗️ **Constructor:** desarrollo AI, DApps, herramientas y prototipos experimentales.
+- 🔭 **Explorando:** Web3, Web4, Web5, Master Nodes, UI / UX y la descentralizacion de una economía tokenizada.
+- ⚡ **Tesla 3-6-9:** Aplicando patrones matemáticos universales a la lógica de contratos inteligentes.
 - Siempre listo para romper esquemas y desafiar límites.
 - Si buscas autenticidad y originalidad, aquí la encontrarás.
 
@@ -46,17 +50,25 @@ I mainly publish content in Spanish. If you want an English version or help tran
 ¿Tienes ideas locas, colaboraciones, o solo quieres saludar?  
 Conecta a través de cualquiera de estos canales oficiales:
 
+- Company LinkedIn: [@alienflowspace](https://linkedin.com/company/alienflowspace)
 - Discord: [discord.gg/alienflowspace](https://discord.gg/alienflowspace)  
-- Email: [info@alienflow.space](mailto:info@alienflow.space)  
-- Telegram: [t.me/AlienFlow](https://t.me/AlienFlow)  
-- X / Twitter: [@alien69flow](https://x.com/alien69flow)  
-- Instagram: [@alien69flow](https://www.instagram.com/alien69flow/)  
-- GitBook (DAO): [alienflowspace.gitbook.io/DAO](https://alienflowspace.gitbook.io/DAO)  
+- Email: [alien69flow@proton.me](mailto:alien69flow@proton.me)
+- GitBook (DAO: [alienflowspace.gitbook.io/DAO](https://alienflowspace.gitbook.io/DAO)  
 - GitHub DAO: [github.com/AlienFlowSpaceDAO](https://github.com/AlienFlowSpaceDAO)
+- Instagram: [@alien69flow](https://www.instagram.com/alien69flow/)
+- LinkedIn Personal: [@alienflow](https://linkedin.com/in/alienflow)
+- Telegram: [t.me/AlienFlow](https://t.me/AlienFlow)
+- Threads: [@alien69flow](https://threads.net/@alien69flow)
+- X / Twitter: [@alien69flow](https://x.com/alien69flow)  
+
 
 ¿Colaboraciones e Ideas locas? Abre una issue en el repo relevante o mándame un DM en Redes Sociales para conectar.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSBanner.jpg" width="100%" alt="AlienFlow Banner" />
+</p>
 
 ## 🧰 Herramientas, Lenguajes & Tecnologías
 Combino lenguajes, frameworks y herramientas. Añade o cambia badges según prefieras.
@@ -68,6 +80,19 @@ Badges rápidos:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🛠️ Frameworks & Web3 Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🛸 Infrastructure & Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 Herramientas & stacks:
 - Almacenamiento: Arweave, IPFS
@@ -108,6 +133,13 @@ Herramientas & stacks:
   Experimentos y mods para DeFi en PancakeSwap sobre la red de Binance Smart Chain con Liquidity Pools, Staking.
 
 ---
-## 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=dark&count_private=true)](https://github.com/Alien69Flow)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien69Flow&layout=compact&theme=dark)](https://github.com/Alien69Flow)
+## 📊 Alien Stats & Frequency
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien69Flow&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/EarthTierra.png" width="100" />
+</p>
