@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<img src="https://media.giphy.com/media/3o7btXkbsV26U95Ugl/giphy.gif" width="50px">
-  <img src="https://media.giphy.com/media/l41lRdBq3e1x7v70c/giphy.gif" width="80px">
+  <img src="https://giphy.com/stickers/miron-transparent-face-miron-pvGz2imGNh1xS" width="30px">
+  <img src="https://giphy.com/stickers/imoji-alien-xUPGclu6WLQjHEIX2o" width="30px">
+  <img src="https://giphy.com/stickers/Yvr3Gzxh8ead2" width="30px">
   <h1>🖖🏻 Alien69Flow: System Architect & Visionary 🛸</h1>
 ## 🖖🏻 Hello there, I’m Alien69Flow 🛸
 
@@ -94,24 +95,23 @@ Badges Expertise:
   <img src="https://skillicons.dev/icons?i=solidity,js,ts,py,rust,cpp,react,nextjs,tailwind,nodejs,fastapi,docker,kali,linux,git,github,vscode,npm,md" />
 </div>
 
-![Solidity](https://img.shields.io/badge/Solidity-333333?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ### 🛠️ Frameworks & Web3 Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-333333?style=for-the-badge&logo=solidity&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🛸 Infrastructure & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 Herramientas & stacks:
@@ -126,7 +126,7 @@ Herramientas & stacks:
 ## 🚀 Proyectos destacados (Top repos)
 
 - [AlienFlowSpace](https://github.com/Alien69Flow/AlienFlowSpace)  
-  Dimensión Espacio / Tiemporal para la innovación alienígena web 3,4,5.
+  AI DAO DAPP DEX Energy Efficiency & Environmental Sustainhability (web 3,4,5).
 - [AI Tor.v69]((https://github.com/Alien69Flow/AITorLovable))  
   Chatbots avanzados, inteligencia artificial, redes neuronales y mucho flow.
 - [AlienDEX-Play](https://github.com/Alien69Flow/AlienDEX-Play)  
@@ -157,9 +157,10 @@ Herramientas & stacks:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alien69Flow&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=tokyonight&count_private=true" alt="Aitor's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien69Flow&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=dark&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien69Flow&layout=compact&theme=dark&hide_border=true" height="180em" />
 </p>
 ---
 <p align="center">
