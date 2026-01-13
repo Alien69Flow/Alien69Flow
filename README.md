@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <img src="https://giphy.com/stickers/miron-transparent-face-miron-pvGz2imGNh1xS" width="30px">
-  <img src="https://giphy.com/stickers/imoji-alien-xUPGclu6WLQjHEIX2o" width="30px">
-  <img src="https://giphy.com/stickers/Yvr3Gzxh8ead2" width="30px">
-  <h1>🖖🏻 Alien69Flow: System Architect & Visionary 🛸</h1>
-## 🖖🏻 Hello there, I’m Alien69Flow 🛸
-
+<img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/alien.gif" width="100" alt="Alien Animation" />
+<h1>🖖🏻 Hello there, I’m Alien69Flow 🛸</h1>
+  
+  <p><b>Deigner/DEV/Founder & System Architect | Web 3-4-5 Visionary | Tesla 3-6-9 Logic</b></p>
+  
 [![Profile views](https://komarev.com/ghpvc/?username=Alien69Flow&style=flat-square)](https://github.com/Alien69Flow)
 [![Seguir en GitHub](https://img.shields.io/github/followers/Alien69Flow?label=Seguir&style=social)](https://github.com/Alien69Flow)
 
@@ -15,7 +14,7 @@
 
 ¡Bienvenido a mi espacio alienígena! Aquí combino codigo abierto y libre con la creatividad, descentralización, tecnología y una buena dosis de experimentación con redes blockchain web 3, redes de inteligenccia neuronal IA web 4, computación cuantica.
 Si has llegado hasta aquí, prepárate para explorar repositorios únicos, ideas revolucionarias y herramientas que desafían las normas establecidas.
-Explora, prueba y si te atreves colabora & contacta.
+Explora, prueba y si te atreves, **colabora & contacta**.
 
 ---
 
@@ -51,7 +50,7 @@ I mainly publish content in Spanish. If you want an English version or help tran
 
 ---
 
-## 📡 Contacto — Conecta conmigo
+## 📡 Contacta — Conecta conmigo
 
 ¿Tienes ideas locas, colaboraciones, o solo quieres saludar?  
 Conecta a través de cualquiera de estos canales oficiales:
@@ -158,11 +157,14 @@ Herramientas & stacks:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alien69Flow&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=dark&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien69Flow&layout=compact&theme=dark&hide_border=true" height="180em" />
-</p>
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Alien69Flow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien69Flow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" />
+</div>
+
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/EarthTierra.png" width="100" />
 </p>
