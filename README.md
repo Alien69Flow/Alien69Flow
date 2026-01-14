@@ -6,8 +6,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 <code>[Auth_ID]:</code> <kbd>Alien69Flow</kbd> 
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien.gif" width="33px">
-    <p><b> Founder / System Architect & Core DEV Full-Stack Engineer | Web 3-4-5 Strategist | 3-6-9 Visionary </b></p>
 </h1>
+
+### ⚡ **Founder & Lead Systems Architect**
+**Core Full-Stack Engineer | Web 3-4-5 Strategist | Tesla 3-6-9 Visionary**
 
 <br />
 
