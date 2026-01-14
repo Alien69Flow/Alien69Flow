@@ -2,13 +2,6 @@
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="45%" alt="AlienFlowSpace Logo" />
 </p>
 
-<img src="https://github.com/Alien69Flow.png" width="120" alt="Alien69Flow Avatar" />
-
-<br />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ROOT@ALIEN69FLOW:~$;ACCESS_GRANTED...;SYSTEMS_ARCHITECT_ACTIVE;TESLA_3-6-9_LOGIC_SYNC" alt="Typing SVG" />
-
-<br />
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 <samp>IDENT_AUTH:</samp> <kbd>Alien69Flow</kbd>
