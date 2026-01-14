@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/ABC.png" width="45%" alt="Alien69Flow Logo" />
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/ABC.jpg" width="45%" alt="Alien69Flow Logo" />
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="45%" alt="AlienFlowSpace Logo" />
 </p>
 
