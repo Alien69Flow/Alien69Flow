@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="45%" alt="AlienFlowSpace Logo" />
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="100" alt="AlienFlowSpace" />
 </p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-<samp>IDENT_AUTH:</samp> <kbd>Alien69Flow</kbd>
+<code>[SYSTEM_USER]:</code> <kbd>Alien69Flow</kbd>
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien.gif" width="33px">
 </h1>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌌 The Vision: Ai, BioFi, DeFi, DePin, DeSci, GameFi, IPFS, QFS, ReFi, RWA, SocialFi, TradFi.
+## 🌌 Ai, BioFi, DeFi, DePin, DeSci, GameFi, IPFS, QFS, ReFi, RWA, SocialFi, TradFi.
 ### Blockchain Web 3, AI Neural NetWorks Web 4, Quantum Web 5.
 
 > *"Si quieres encontrar los secretos del universo, piensa en energía, frecuencia y vibración."* — **N. Tesla**
