@@ -4,8 +4,9 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-<code>[SYSTEM_USER]:</code> <kbd>Alien69Flow</kbd>
+<code>[Auth_ID]:</code> <kbd>Alien69Flow</kbd> 
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien.gif" width="33px">
+    <p><b> Founder / System Architect & Core DEV Full-Stack Engineer | Web 3-4-5 Strategist | 3-6-9 Visionary </b></p>
 </h1>
 
 <br />
@@ -17,7 +18,6 @@
 </p>
 
 <br />
-  <p><b> Founder / System Architect & Core DEV Full-Stack Engineer | Web 3-4-5 Strategist | 3-6-9 Visionary </b></p>
   
 [![Profile views](https://komarev.com/ghpvc/?username=Alien69Flow&style=flat-square)](https://github.com/Alien69Flow)
 [![Seguir en GitHub](https://img.shields.io/github/followers/Alien69Flow?label=Seguir&style=social)](https://github.com/Alien69Flow)
