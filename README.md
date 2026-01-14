@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/ABC.jpg" width="45%" alt="Alien69Flow Logo" />
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="45%" alt="AlienFlowSpace Logo" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Alien69Flow.png" width="120" style="border-radius:50%; border: 2px solid #58a6ff;" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ROOT@ALIEN69FLOW:~$;Greetings,+Commander;Systems+Architect+Web+3-4-5;Tesla+3-6-9+Logic+Active" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Greetings, I’m <kbd>Alien69Flow</kbd> 
+<b><samp>IDENT_AUTH: SUCCESSFUL_ACCESS</samp></b> <kbd>Alien69Flow</kbd> 
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien.gif" width="33px">
 </h1>
 
