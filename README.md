@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="100" alt="AlienFlowSpace" />
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="369" alt="AlienFlowSpace" />
 </p>
 
 <h1 align="center">
@@ -8,6 +8,15 @@
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien.gif" width="33px">
 </h1>
 
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_NODE-00FF00?style=for-the-badge&logo=opsgenie&logoColor=white" />
+  <img src="https://img.shields.io/badge/AUTH-LEVEL_69-58A6FF?style=for-the-badge&logo=google-authenticator&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOGIC-3--6--9_TESLA-FFD700?style=for-the-badge&logo=tesla&logoColor=black" />
+</p>
+
+<br />
   <p><b> Founder / System Architect & Core DEV Full-Stack Engineer | Web 3-4-5 Strategist | 3-6-9 Visionary </b></p>
   
 [![Profile views](https://komarev.com/ghpvc/?username=Alien69Flow&style=flat-square)](https://github.com/Alien69Flow)
