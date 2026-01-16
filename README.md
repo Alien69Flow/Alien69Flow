@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
- ### <b>** ⚡ Quantum Systems Architect | Founder & Lead Core DEV OPS**</b><br>
+ <b> ⚡ Quantum Systems Architect | Founder & Lead Core DEV OPS</b><br>
   <i>**Unifying Web 3-4-5 Research Strategist | Efficiency and Sustainability 3-6-9 Visionary**</i>
 </p>
 
