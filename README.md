@@ -128,8 +128,6 @@ Conecta a través de cualquiera de estos canales oficiales:
 
 ---
 
----
-
 ## 🌐 Idiomas / Languages
 <div align="left">
 
