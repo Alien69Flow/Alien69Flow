@@ -9,7 +9,7 @@
 </h1>
 
 ### ⚡ **Founder & Lead Systems Architect**
-**Core Full-Stack Engineer | Web 3-4-5 Strategist | Tesla 3-6-9 Visionary**
+**Core | Founder Architect / Designer / Developer & Full-Stack Engineer | Web 3-4-5 Research Strategist | Efficiency and Sustainability 3-6-9 Visionary**
 
 <br />
 
@@ -35,7 +35,7 @@
 Aquí la **matemática universal (3-6-9)** se encuentra con la computación cuántica, la eficiencia energetica y la sostenibilidad ambiental. No solo construyo código, desarrollo y diseño **ecosistemas resilientes**.
 Explora, prueba y si te atreves, **colabora & contacta**.
 
-### 🔭 Áreas de Investigación Activa (Web 3, 4 & 5):
+### 🔬 Áreas de Investigación Activa | Active Research & Developments Pillars  (Web 3, 4 & 5):
 
 * **🤖 AI & Neural Networks:** Desarrollo de **AI Tor.v69**, inteligencia neuronal hibrida para la gestión autónoma de la DAO y soporte técnico especializado.
 * **🧬 BioFi & DeSci:** Descentralización y financiación de la investigación científica y biológica mediante protocolos soberanos.
@@ -45,19 +45,25 @@ Explora, prueba y si te atreves, **colabora & contacta**.
 * **🃏 GameFi, SocialFi & XFi:** Explorando la intersección entre el gaming descentralizado, las finanzas sociales y la identidad digital única.
 
 ---
+> *"Investigación en curso: **Estabilización de la entropía** mediante catalizadores de **Silicio-Torio** para la recepción de energía de punto cero (Neutrinos). Hacia una arquitectura de **singularidad gravitacional a 1000 dB**."*
+
+* **🌐 Entropy Balancing:** High-frequency **diploid quantum vortices** for balancing gravity/magnetism thermal polarization.
+* **🧠 Biological Link:** Mapping the **Endocannabinoid System** as a quantum biological interface for neural synchronization, flow, and individuation.
+* **⚛️ Zero-Point Energy:** Implementing **Tesla’s 3-6-9** numerical patterns into L1/L2/L3 smart contract logic and decentralized energy nodes.
+---
 
 ## 👽 Sobre mí — Quick bio
-- Apasionado por la descentralización, la eficiencia, la innovación y la sostenibilidad.
-- 🌌 **Visión:** Inspirado por Tesla, unifico el campo magnético y la gravedad a través de flujos de Neutrinos.
-- 🏗️ **Build:** desarrollo AI, DApps, herramientas y prototipos experimentales.
-- 🔭 **Explore:** Web3, Web4, Web5, Master Nodes, UI / UX y la descentralizacion de una economía tokenizada.
-- ⚡ **Tesla 3-6-9:** Aplicando patrones matemáticos universales a la lógica de contratos inteligentes.
+- 👁️‍🗨️ **Vision:** Inspired by Tesla, unifying magnetic fields and gravity through Neutrino flows.
+- 🏗️ **Build:** Developing AI, DAO, DApps, DEX & experimental tools and sovereignty protocols.
+- 🔭 **Explore:** Core : Web3, Web4, Web5, Master Nodes, UI / UX.
+- 🪷 **Flow State:** Connecting frequency and consciousness through breath and endocannabinoid silicon-torio based interfaces.
+- 🍀 **Sustainability:** Apasionado por la descentralización, la eficiencia, la innovación y la sostenibilidad.
 - Siempre listo para romper esquemas y desafiar límites.
 - Si buscas autenticidad y originalidad, aquí la encontrarás.
 
 ---
 
-> "El universo es demasiado grande para pensar pequeño." — Alien69Flow
+> "The universe isn't just large; it's a code waiting to be deciphered. Don't just think big, think universal." — Alien69Flow
 
 ---
 <p align="center">
