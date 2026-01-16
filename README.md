@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
- <b> ⚡ Quantum Systems Architect | DAO Founder Lead Core</b><br>
+ <b> ⚡ Quantum Systems Architect | DAO Founder Lead Core Φπ</b><br>
   <i>Unifying Web 3-4-5 | Efficiency and Sustainability 3-6-9 Visionary</i>
 </p>
 
