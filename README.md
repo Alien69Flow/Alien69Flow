@@ -2,6 +2,18 @@
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="369" alt="AlienFlowSpace" />
 </p>
 
+<p align="center">
+  <b>Quantum Systems Architect | Founder & Lead Core Developer</b><br>
+  <i>Unifying Web 3-4-5 through Tesla 3-6-9 Mathematical Logic</i>
+</p>
+
+<p align="center">
+  <code>Architect</code> • <code>Neuro-Designer</code> • <code>Full-Stack Engineer</code> • <code>Research Strategist</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VISION-EFFICIENCY_%26_SUSTAINABILITY-00FF00?style=for-the-badge&logo=eco&logoColor=white" />
+</p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 <code>[Auth_ID]:</code> <kbd>Alien69Flow</kbd> 
@@ -9,7 +21,7 @@
 </h1>
 
 ### ⚡ **Founder & Lead Systems Architect**
-**Core | Founder Architect / Designer / Developer & Full-Stack Engineer | Web 3-4-5 Research Strategist | Efficiency and Sustainability 3-6-9 Visionary**
+**Core |  / Designer / Developer & Full-Stack Engineer | Web 3-4-5 Research Strategist | Efficiency and Sustainability 3-6-9 Visionary**
 
 <br />
 
@@ -92,19 +104,28 @@ Conecta a través de cualquiera de estos canales oficiales:
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/alienflow)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/alien69flow)
-[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/AlienFlow)
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/alienflowspace)
 [<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:alien69flow@proton.me)
 [<img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" />](https://alienflowspace.gitbook.io/DAO)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alien69flow/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/alienflow)
+[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/AlienFlow)
+[<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />](https://threads.net/@alien69flow)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/alien69flow)
 
-<img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Cartografia-Via-Lactea.jpg" width="100" alt="Galaxy" />
-<img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/UC.png" width="100" alt="UC" />
+### 🌌 Cartography & Universal Origin
+
+**Universo Cognoscible (UC)** <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/UC.png" width="100%" alt="Known Universe" />
+
+<br />
+
+**Cartografía Vía Láctea** <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Cartografia-Via-Lactea.jpg" width="100%" alt="Milky Way Chart" />
+
+<br />
 
 <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AlienGang.gif" width="100" alt="AlienGang" />
 <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AlienLabs.gif" width="100" alt="AlienLabs" />
-<img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AlienNation.gif" width="100" alt="AlienNation" />
+<img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien Nation.gif" width="100" alt="AlienNation" />
 <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AlienTools.gif" width="100" alt="AlienTools" />
 
 ---
@@ -150,8 +171,8 @@ Connecting with the major Asian and Indian technological and philosophical hubs.
 
 ---
 
-## 🧰 Herramientas, Lenguajes & Tecnologías
-Combino frameworks, herramientas y lenguajes.
+## 🧰 Programing Languages, Techs and Tools
+Combino frameworks, herramientas, lenguajes y tecnologías.
 
 Badges Expertise:
 
