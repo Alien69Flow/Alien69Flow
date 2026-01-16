@@ -2,26 +2,24 @@
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSLogo.png" width="369" alt="AlienFlowSpace" />
 </p>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+<code>SYSTEM_ACCESS:</code> <kbd><b>ALIEN69FLOW</b></kbd>
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien.gif" width="33px">
+</h1>
+
 <p align="center">
-  <b>Quantum Systems Architect | Founder & Lead Core Developer</b><br>
-  <i>Unifying Web 3-4-5 through Tesla 3-6-9 Mathematical Logic</i>
+ ### <b>** ⚡ Quantum Systems Architect | Founder & Lead Core DEV OPS**</b><br>
+  <i>**Unifying Web 3-4-5 Research Strategist | Efficiency and Sustainability 3-6-9 Visionary**</i>
 </p>
 
 <p align="center">
-  <code>Architect</code> • <code>Neuro-Designer</code> • <code>Full-Stack Engineer</code> • <code>Research Strategist</code>
+  <code>Architect</code> • <code>Core Designer & Developer</code> • <code>Full-Stack Engineer</code> • <code>Research Strategist</code>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VISION-EFFICIENCY_%26_SUSTAINABILITY-00FF00?style=for-the-badge&logo=eco&logoColor=white" />
 </p>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-<code>[Auth_ID]:</code> <kbd>Alien69Flow</kbd> 
-  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Alien.gif" width="33px">
-</h1>
-
-### ⚡ **Founder & Lead Systems Architect**
-**Core |  / Designer / Developer & Full-Stack Engineer | Web 3-4-5 Research Strategist | Efficiency and Sustainability 3-6-9 Visionary**
 
 <br />
 
