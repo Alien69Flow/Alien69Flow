@@ -109,24 +109,44 @@ Conecta a través de cualquiera de estos canales oficiales:
 
 ---
 
-## 🌐 Idiomas / Languages
-<details>
-<summary>Español (predeterminado) 🇪🇸</summary>
-
-Trabajo principalmente en español. Encuentra la info principal aquí.
-
-</details>
-
-<details>
-<summary>English 🇬🇧</summary>
-
-I mainly publish content in Spanish. If you want an English version or help translating parts of the profile, ping me.
-
-</details>
-
 ---
 
+## 🌐 Idiomas / Languages
+<div align="left">
+
+<details>
+<summary><b>Español 🇪🇸 (Origin Node)</b></summary>
+Trabajo principalmente en español. Es el lenguaje base de la DAO y de la investigación original.
+</details>
+
+<details>
+<summary><b>English 🇺🇸🇬🇧 (Global Sync)</b></summary>
+Universal bridge for Web3, Web4 & Web5 documentation and international collaborations.
+</details>
+
+<details>
+<summary><b>Português 🇧🇷 (Emerging Node)</b></summary>
+Conectando-se com a crescente comunidade de língua portuguesa.
+</details>
+
+<details>
+<summary><b>Français 🇫🇷 (European Research)</b></summary>
+Documentation et recherche pour l'écosystème francophone.
+</details>
+
+<details>
+<summary><b>汉语 (Hànyǔ) 🇨🇳 / हिन्दी (Hindī) 🇮🇳 / 日本語 (Nihongo) 🇯🇵</b></summary>
+Connecting with the major Asian and Indian technological and philosophical hubs.
+</details>
+
+<details>
+<summary><b>العربية (Al-Arabiya) 🌍 (International Arabic)</b></summary>
+بوابة للابتكار والتقنيات اللامركزية في العالم العربي.
+</details>
+
 </div>
+
+---
 
 ---
 
