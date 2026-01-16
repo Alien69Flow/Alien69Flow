@@ -113,11 +113,11 @@ Conecta a través de cualquiera de estos canales oficiales:
 
 ### 🌌 Cartography & Universal Origin
 
-**Universo Cognoscible (UC)** <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/UC.png" width="100%" alt="Known Universe" />
+**Cartografía Vía Láctea** <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Cartografia-Via-Lactea.jpg" width="100%" alt="Milky Way Chart" />
 
 <br />
 
-**Cartografía Vía Láctea** <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/Cartografia-Via-Lactea.jpg" width="100%" alt="Milky Way Chart" />
+**Universo Cognoscible (UC)** <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/UC.png" width="100%" alt="Known Universe" />
 
 <br />
 
