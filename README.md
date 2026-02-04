@@ -101,7 +101,8 @@ Conecta & Contacta a través de cualquiera de estos canales oficiales:
 
 ---
 
-> "The universe isn't just large; it's a code waiting to be deciphered. Don't just think big, think universal." — Alien69Flow
+> "The universe is not just a code to decipher, but a frequency in phase. Energy is the ink and geometry the syntax; don't just think big, become the resonance that executes the universal flow."
+> **Aitor (Φπ) | Alien69Flow**
 
 ---
 <p align="center">
@@ -136,7 +137,7 @@ $$S = \int d^4x \sqrt{-g} \left[ \frac{R}{2\kappa} + \mathcal{L}_{Tesla} + \frac
 
 The state where biology synchronizes with the Golden Ratio ($\Phi$).
 
-$$Co = \oint_{Bio} \Psi(\nu) \cdot dt \xrightarrow{\Delta t \to 0} \Phi$$
+$$Co = \oint_{Bio} \Psi(\nu) \cdot dt = \Phi \quad (\text{if } \Delta t \to 0)$$
 
 > **"Is this the limit of reality, or just the limits of human knowledge?"**
 
