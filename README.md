@@ -239,7 +239,7 @@ Badges Expertise:
 ## 🚀 Proyectos destacados (Top repos)
 
 - [AlienFlow Space](https://github.com/Alien69Flow/AlienFlowSpace)  
-  AI DAO DAPP DEX Energy Efficiency, Innovation and Environmental Sustainhability (web 3,4,5).
+  AI DAO DAPP DEX Energy Efficiency, Innovation and Environmental Sustainability (web 3,4,5).
 - [AI Tor.v69](https://github.com/Alien69Flow/AiTor)  
   Chatbots avanzados, inteligencia artificial, redes neuronales y mucho flow.
 - [ACE A Game Flow](https://github.com/Alien69Flow/ACE.AGameFlow)  
