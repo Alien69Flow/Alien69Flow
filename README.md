@@ -108,7 +108,6 @@ Conecta & Contacta a través de cualquiera de estos canales oficiales:
   <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSBanner.jpg" width="100%" alt="AlienFlow Banner" />
 </p>
 ---
-
 > *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."* — **Никола Тесла**
 
 ### ⚛️ Unified Field Praxis: The Φπ Framework
@@ -116,19 +115,27 @@ Conecta & Contacta a través de cualquiera de estos canales oficiales:
 > *"Is this the limit of reality, or just the limits of human knowledge?"*
 
 #### I. Energy & Frequency Input
+
 How magnetic fields and neutrino flows activate biological capacitance.
+
 $$f_{res} = \frac{1}{2\pi \sqrt{L \cdot C_{pineal}}} \iff \nabla \cdot ( \vec{B} \times \vec{v}_{\nu} )$$
 
 #### II. Spacetime Coupling Framework
+
 The universal hardware where gravity becomes sensitive to quantum information.
+
 $$G_{\mu\nu} + \Lambda g_{\mu\nu} = \kappa (T_{\mu\nu}^{EM} + \Psi_{\nu}^{neutrino})$$
 
 #### III. The Unified Action Execution
+
 The "Universal Smart Contract" regulating 5D flow via the $1/\pi$ phase regulator.
+
 $$S = \int d^4x \sqrt{-g} \left[ \frac{R}{2\kappa} + \mathcal{L}_{Tesla} + \frac{1}{\pi} \mathcal{L}_{\nu}(\delta \nu, \Phi) \right]$$
 
 #### IV. Biological Coherence Output
+
 The state where biology synchronizes with the Golden Ratio ($\Phi$).
+
 $$Co = \oint_{Bio} \Psi(\nu) \cdot dt \xrightarrow{\Delta t \to 0} \Phi$$
 
 > **"Is this the limit of reality, or just the limits of human knowledge?"**
