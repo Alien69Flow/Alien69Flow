@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_NODE-00FF00?style=for-the-badge&logo=opsgenie&logoColor=white" />
   <img src="https://img.shields.io/badge/AUTH-LEVEL_69-58A6FF?style=for-the-badge&logo=google-authenticator&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESEARCH-VERIFIED_NODE-FF4500?style=for-the-badge&logo=micro-dot-blog&logoColor=white" />
   <img src="https://img.shields.io/badge/LOGIC-3--6--9_TESLA-FFD700?style=for-the-badge&logo=tesla&logoColor=black" />
 </p>
 
