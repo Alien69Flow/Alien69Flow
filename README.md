@@ -110,6 +110,7 @@ Conecta & Contacta a través de cualquiera de estos canales oficiales:
 </p>
 ---
 > *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."* — **Никола Тесла**
+---
 
 ### ⚛️ Unified Field Praxis: The Φπ Framework
 
@@ -192,8 +193,6 @@ Connecting with the major Asian and Indian technological and philosophical hubs.
 </details>
 
 </div>
-
----
 
 ---
 
