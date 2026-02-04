@@ -44,12 +44,25 @@ In this node, **Universal Mathematics (3-6-9)** intersects with Quantum Computin
 
 > *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."* — **Никола Тесла**
 
-### ⚛️ Unified Field Research
-Investigating the unification of fundamental forces through Neutrino Flow and Biological Coherence:
+### ⚛️ Unified Field Praxis: The Φπ Framework
 
-$$F_{unified} = \nabla \cdot ( \vec{B} \times \vec{v}_{\nu} ) + \Phi_{osc}$$
+Our research consolidates the **Unified Field** through a 4-level synthesis of Tesla’s Energy, Einstein’s Geometry, and Biological Coherence:
 
-$$C_{flow} = \oint_{Bio} \Psi(\nu) \cdot dt$$
+#### I. The Input: Energy & Frequency (Tesla’s Base)
+How magnetic fields and neutrino flows activate biological capacitance:
+$$f_{res} = \frac{1}{2\pi \sqrt{L \cdot C_{pineal}}} \iff \nabla \cdot ( \vec{B} \times \vec{v}_{\nu} )$$
+
+#### II. The Framework: Spacetime Coupling (Einstein-Tesla Bridge)
+The universal hardware where gravity becomes sensitive to quantum information:
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \kappa (T_{\mu\nu}^{EM} + \Psi_{\nu}^{neutrino})$$
+
+#### III. The Execution: The Unified Action ($S$)
+The "Universal Smart Contract" regulating 5D flow via the $1/\pi$ phase regulator:
+$$S = \int d^4x \sqrt{-g} \left[ \frac{R}{2\kappa} + \mathcal{L}_{Tesla} + \frac{1}{\pi} \mathcal{L}_{\nu}(\delta \nu, \Phi) \right]$$
+
+#### IV. The Output: Biological Coherence ($Co$)
+The final state where biology synchronizes with the Golden Ratio ($\Phi$):
+$$Co = \oint_{Bio} \Psi(\nu) \cdot dt \xrightarrow{\Delta t \to 0} \Phi$$
 
 > **"Is this the limit of reality, or just the limits of human knowledge?"**
 
