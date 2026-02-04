@@ -54,8 +54,8 @@ In this node, **Universal Mathematics (3-6-9)** intersects with Quantum Computin
 * **🃏 GameFi, SocialFi & XFi:** Exploring the intersection of decentralized gaming, social finance, and unique digital identity.
 
 ---
-> *"Investigación en curso: **Estabilización de la entropía** mediante catalizadores de **Silicio-Torio** para la recepción de energía de punto cero (Neutrinos). Hacia una arquitectura de **singularidad gravitacional a 1000 dB**."*
-
+> *"**Current Ongoing Investigation Status:** **Entropy stabilization** via **Silicon-Thorium** catalysts for Neutrino Flow reception. Implementing a Gravitational Singularity Architecture to synchronize the Endocannabinoid System as a quantum interface with the **Φπ Field**."*
+---
 * **🌐 Entropy Balancing:** High-frequency **diploid quantum vortices** for balancing gravity/magnetism thermal polarization.
 * **🧠 Biological Link:** Mapping the **Endocannabinoid System** as a quantum biological interface for neural synchronization flow.
 * **⚛️ Zero-Point Energy:** Implementing **Tesla’s 3-6-9** numerical patterns into L1/L2/L3 smart contract logic and decentralized energy nodes.
