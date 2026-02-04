@@ -131,7 +131,7 @@ $$G_{\mu\nu} + \Lambda g_{\mu\nu} = \kappa (T_{\mu\nu}^{EM} + \Psi_{\nu}^{neutri
 
 The "Universal Smart Contract" regulating 5D flow via the $1/\pi$ phase regulator.
 
-$$S = \int d^4x \sqrt{-g} \left[ \frac{R}{2\kappa} + \mathcal{L}_{Tesla} + \frac{1}{\pi} \mathcal{L}_{\nu}(\delta \nu, \Phi) \right]$$
+$$S = \int d^4x \sqrt{-g} \, \big[ \tfrac{R}{2\kappa} + \mathcal{L}_{Tesla} + \tfrac{1}{\pi} \mathcal{L}_{\nu} \big]$$
 
 #### IV. Biological Coherence Output
 
