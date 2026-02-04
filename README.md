@@ -42,30 +42,6 @@
 Welcome! Here in the ΔlieπFlΦw $pac€ DAO Command Center, open-source code meets creativity, decentralization, and high-frequency experimentation. 
 In this node, **Universal Mathematics (3-6-9)** intersects with Quantum Computing and Energy Efficiency to build **Resilient Ecosystems**. Explore, test, and if you dare: **Collaborate & Sync:**
 
-> *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."* — **Никола Тесла**
-
-### ⚛️ Unified Field Praxis: The Φπ Framework
-
-Our research consolidates the **Unified Field** through a 4-level synthesis of Tesla’s Energy, Einstein’s Geometry, and Biological Coherence:
-
-#### I. The Input: Energy & Frequency (Tesla’s Base)
-How magnetic fields and neutrino flows activate biological capacitance:
-$$f_{res} = \frac{1}{2\pi \sqrt{L \cdot C_{pineal}}} \iff \nabla \cdot ( \vec{B} \times \vec{v}_{\nu} )$$
-
-#### II. The Framework: Spacetime Coupling (Einstein-Tesla Bridge)
-The universal hardware where gravity becomes sensitive to quantum information:
-$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \kappa (T_{\mu\nu}^{EM} + \Psi_{\nu}^{neutrino})$$
-
-#### III. The Execution: The Unified Action ($S$)
-The "Universal Smart Contract" regulating 5D flow via the $1/\pi$ phase regulator:
-$$S = \int d^4x \sqrt{-g} \left[ \frac{R}{2\kappa} + \mathcal{L}_{Tesla} + \frac{1}{\pi} \mathcal{L}_{\nu}(\delta \nu, \Phi) \right]$$
-
-#### IV. The Output: Biological Coherence ($Co$)
-The final state where biology synchronizes with the Golden Ratio ($\Phi$):
-$$Co = \oint_{Bio} \Psi(\nu) \cdot dt \xrightarrow{\Delta t \to 0} \Phi$$
-
-> **"Is this the limit of reality, or just the limits of human knowledge?"**
-
 ---
 
 ### 🔬 Áreas de Investigación Activa | Active Research & Developments Pillars  (Web 3, 4 & 5):
@@ -96,14 +72,6 @@ $$Co = \oint_{Bio} \Psi(\nu) \cdot dt \xrightarrow{\Delta t \to 0} \Phi$$
 
 ---
 
-> "The universe isn't just large; it's a code waiting to be deciphered. Don't just think big, think universal." — Alien69Flow
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSBanner.jpg" width="100%" alt="AlienFlow Banner" />
-</p>
----
-
 ## 📡 Connect & Contact with the Node — Contacta & Conecta
 
 ¿Tienes ideas locas, colaboraciones, o solo quieres saludar?  
@@ -130,6 +98,40 @@ Conecta & Contacta a través de cualquiera de estos canales oficiales:
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/AlienFlow)
 [<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />](https://threads.net/@alien69flow)
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/alien69flow)
+
+---
+
+> "The universe isn't just large; it's a code waiting to be deciphered. Don't just think big, think universal." — Alien69Flow
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alien69Flow/Alien69Flow/main/AFSBanner.jpg" width="100%" alt="AlienFlow Banner" />
+</p>
+---
+
+> *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."* — **Никола Тесла**
+
+### ⚛️ Unified Field Praxis: The Φπ Framework
+
+> *"Is this the limit of reality, or just the limits of human knowledge?"*
+
+#### I. Energy & Frequency Input
+How magnetic fields and neutrino flows activate biological capacitance.
+$$f_{res} = \frac{1}{2\pi \sqrt{L \cdot C_{pineal}}} \iff \nabla \cdot ( \vec{B} \times \vec{v}_{\nu} )$$
+
+#### II. Spacetime Coupling Framework
+The universal hardware where gravity becomes sensitive to quantum information.
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \kappa (T_{\mu\nu}^{EM} + \Psi_{\nu}^{neutrino})$$
+
+#### III. The Unified Action Execution
+The "Universal Smart Contract" regulating 5D flow via the $1/\pi$ phase regulator.
+$$S = \int d^4x \sqrt{-g} \left[ \frac{R}{2\kappa} + \mathcal{L}_{Tesla} + \frac{1}{\pi} \mathcal{L}_{\nu}(\delta \nu, \Phi) \right]$$
+
+#### IV. Biological Coherence Output
+The state where biology synchronizes with the Golden Ratio ($\Phi$).
+$$Co = \oint_{Bio} \Psi(\nu) \cdot dt \xrightarrow{\Delta t \to 0} \Phi$$
+
+> **"Is this the limit of reality, or just the limits of human knowledge?"**
 
 ### 🌌 Cartography & Universal Origin
 
